@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Türkan</h1>
 <h3 align="center">Mobile Application Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atakancelik&label=Profile%20views&color=0e75b6&style=flat" alt="atakancelik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=genjitsuCode&label=Profile%20views&color=0e75b6&style=flat" alt="furkanturkan" /> </p>
 
 - 🌱 I’m currently learning **swift, ktor**
 
