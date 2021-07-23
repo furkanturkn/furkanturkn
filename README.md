@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Furkan Türkan</h1>
+<h3 align="center">Mobile Application Developer</h3>
 
-<!--
-**genjitsuCode/genjitsuCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atakancelik&label=Profile%20views&color=0e75b6&style=flat" alt="atakancelik" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **swift, ktor**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I regularly write articles on [https://medium.com/@furkantrkn](https://medium.com/@furkantrkn)
+
+- 💬 Ask me about **Android (Kotlin - Java)**
+
+- 📫 How to reach me **furkan.trkn1@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/furkanturkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkanturkan" height="30" width="40" /></a>
+<a href="https://medium.com/@furkantrkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atakancelik" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://kotlinlang.org" target="_blank"> <img src="http://www.w3.org/2000/svg" alt="kotlin" width="40" height="40"/> </a>  <a href="https://www.java.com/tr" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genjitsuCode&show_icons=true&theme=dark&hide_border=true&locale=en" alt="atakancelik" /></p>
